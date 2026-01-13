@@ -1,4 +1,6 @@
-# Hi there! I'm Jonathan Caixba 👋 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JonathanCaixba/JonathanCaixba/main/BannerGithubx.png" alt="Banner de Jonathan Caixba" width="100%">
+</p>
 
 ### Computer Systems Engineer | Java Full Stack Developer | AI-Augmented Dev
 
