@@ -31,15 +31,16 @@ I specialize in the **Java/Spring ecosystem**, leveraging **AI tools like GitHub
 ---
 
 ### 🎓 Education & Growth
-**B.S. in Computer Systems Engineering** - Universidad Autónoma de Chiapas.
-**Java Full Stack Bootcamp** - Generation México.
-**Languages:** English (B1 Intermediate) & Spanish (Native). Currently expanding my linguistic and technical skills for international collaboration.
+- **B.S. in Computer Systems Engineering** - Universidad Autónoma de Chiapas.
+- **Java Full Stack Bootcamp** - Generation México (Graduated with honors).
+- **Languages:** English (B1 Intermediate) | Spanish (Native). Actively improving for global teams.
+- **Certifications in Progress:** "Java Masterclass: Job-Ready Development | Udemy (Tim Buchalka) | 130+ horas", Scrum Master.
 
 ---
 
-### 📫 Let's Connect!
-- **LinkedIn:** [www.linkedin.com/in/jonathan-caixba]
+### 📫 Let's Connect & Collaborate!
+- **LinkedIn:** [Jonathan Caixba](https://www.linkedin.com/in/jonathan-caixba)
 - **Email:** caixbajonathanfm@gmail.com
-- **Location:** Tuxtla Gutiérrez, Chiapas (Open to relocation)
+- **Location:** Tuxtla Gutiérrez, Chiapas, Mexico (Open to remote/relocation opportunities)
 
-*"Transforming complex problems into efficient, clean, and scalable code."*
+*"Turning complex problems into efficient, scalable solutions—one commit at a time."*
